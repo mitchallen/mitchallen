@@ -4,18 +4,10 @@ Mitch Allen has worked for software companies in Silicon Valley, along Boston's 
 
 ## Projects
 
-### Software
+### Hardware and Software Blogs
 
 * https://desertbot.io/ - my Raspberry Pi and Arduino blog that averages 35-40K pageviews per month
 * https://scriptable.com/ - my blog on JavaScript, TypeScript, Go (Golang) and React
-
-#### NPM
-
-* https://www.npmjs.com/~mitchallen - my NPM packages
-
-#### Docker 
-
-* https://hub.docker.com/u/mitchallen
 
 ### WebXR
 
@@ -28,6 +20,14 @@ Mitch Allen has worked for software companies in Silicon Valley, along Boston's 
 * https://objkt.com/profile/mitchallenart/created - my online art gallery on obkt
 * https://rarible.com/mitchallenart/ - my Clean (Tezos) NFT profile on Rarible
 * https://hicetnunc.art/mitchallen - my Clean (Tezos) NFT profile on Hic Et Nunc (.art version) 
+
+### NPM
+
+* https://www.npmjs.com/~mitchallen - my NPM packages
+
+### Docker 
+
+* https://hub.docker.com/u/mitchallen
 
 ### Books
 
