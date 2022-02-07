@@ -6,8 +6,6 @@ For links to my current projects see:
 
 * https://mitchallen.com/
 
-### Hi there 👋
-
 <!--
 **mitchallen/mitchallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
