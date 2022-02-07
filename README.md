@@ -21,6 +21,10 @@ Mitch Allen has worked for software companies in Silicon Valley, along Boston's 
 * https://rarible.com/mitchallenart/ - my Clean (Tezos) NFT profile on Rarible
 * https://hicetnunc.art/mitchallen - my Clean (Tezos) NFT profile on Hic Et Nunc (.art version) 
 
+### Books
+
+* http://amazon.com/author/mitch.allen
+
 For links to my current projects see:
 
 * https://mitchallen.com/
