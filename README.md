@@ -8,6 +8,7 @@ Mitch Allen has worked for software companies in Silicon Valley, along Boston's 
 
 * https://desertbot.io/ - my Raspberry Pi and Arduino blog that averages 35-40K pageviews per month
 * https://scriptable.com/ - my blog on JavaScript, TypeScript, Go (Golang) and React
+* https://www.npmjs.com/~mitchallen - my NPM packages
 
 ### WebXR
 
