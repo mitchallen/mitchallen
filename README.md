@@ -1,6 +1,6 @@
 ## About Mitch Allen
 
-Mitch Allen has worked for software companies in Silicon Valley, along Boston's Route 128 and in New York's Silicon Alley. He currently works for a robotics company in Massachusetts.
+I have worked for software companies in Silicon Valley, along Boston's Route 128 and in New York's Silicon Alley. I currently work for a robotics company in Massachusetts.
 
 ## Projects
 
