@@ -17,7 +17,7 @@ Mitch Allen has worked for software companies in Silicon Valley, along Boston's 
 ### Generative Art
 
 * https://mitchallen.art/ - the hub for my experiments with generative art and publishing NFTs using Tezos 
-* https://objkt.com/profile/mitchallenart/created - my online art gallery on obkt
+* https://objkt.com/profile/mitchallenart/created - my online art gallery on objkt
 * https://rarible.com/mitchallenart/ - my Clean (Tezos) NFT profile on Rarible
 * https://hicetnunc.art/mitchallen - my Clean (Tezos) NFT profile on Hic Et Nunc (.art version) 
 
