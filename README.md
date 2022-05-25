@@ -19,7 +19,7 @@ I have worked for software companies in Silicon Valley, along Boston's Route 128
 * https://mitchallen.art/ - the hub for my experiments with generative art and publishing NFTs using Tezos 
 * https://objkt.com/profile/mitchallenart/created - my online art gallery on objkt
 * https://rarible.com/mitchallenart/ - my Clean (Tezos) NFT profile on Rarible
-* DOA?: hicetnunc.art/mitchallen - my Clean (Tezos) NFT profile on Hic Et Nunc (.art version) 
+* 😦 DOA?: hicetnunc.art/mitchallen - my Clean (Tezos) NFT profile on Hic Et Nunc (.art version) 
 
 ### Go (Golang) Packages
 
