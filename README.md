@@ -9,11 +9,6 @@ I have worked for software companies in Silicon Valley, along Boston's Route 128
 * https://desertbot.io/ - my Raspberry Pi and Arduino blog that averages 35-40K pageviews per month
 * https://scriptable.com/ - my blog on JavaScript, TypeScript, Go (Golang) and React
 
-### WebXR
-
-* https://scriptaverse.com/ - my experiment on how to create your own personal metatverse using WebXR, JavaScript and IPFS
-* https://vrmitch.com/ - some of my raw ThreeJS and WebXR experiments
-
 ### Generative Art
 
 * https://mitchallen.art/ - the hub for my experiments with generative art and publishing NFTs using Tezos 
