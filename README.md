@@ -2,6 +2,8 @@
 
 I have worked for software companies in Silicon Valley, along Boston's Route 128 and in New York's Silicon Alley. I currently work for a robotics company in Massachusetts.
 
+<a href="https://www.buymeacoffee.com/mitchallen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## Projects
 
 ### Hardware and Software Blogs
