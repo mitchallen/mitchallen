@@ -2,7 +2,7 @@
 
 I have worked for software companies in Silicon Valley, along Boston's Route 128 and in New York's Silicon Alley. I currently work for a robotics company in Massachusetts.
 
-<a href='https://ko-fi.com/A0A0KEIOY' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
+<a href='https://ko-fi.com/A0A0KEIOY' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## Projects
 
