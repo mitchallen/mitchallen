@@ -8,12 +8,13 @@ I have worked for software companies in Silicon Valley, along Boston's Route 128
 
 ### Hardware and Software Blogs
 
-* https://desertbot.io/ - my Raspberry Pi and Arduino blog that averages 35-40K pageviews per month
 * https://scriptable.com/ - my blog on JavaScript, TypeScript, Go (Golang) and React
+* https://desertbot.io/ - my Raspberry Pi and Arduino blog that averages 35-40K pageviews per month
 
 ### Generative Art
 
-* https://mitchallen.art/ - the hub for my experiments with generative art and publishing NFTs using Tezos 
+* https://mitchallen.art/ - the hub for my experiments with generative art 
+* https://scriptaverse.com/ - my experiment with hosting my own metaverse using ThreeJS and IPFS 
 * https://objkt.com/profile/mitchallenart/created - my online art gallery on objkt
 * https://rarible.com/mitchallenart/ - my Clean (Tezos) NFT profile on Rarible
 * 😦 DOA?: hicetnunc.art/mitchallen - my Clean (Tezos) NFT profile on Hic Et Nunc (.art version) 
