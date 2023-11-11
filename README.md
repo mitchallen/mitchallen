@@ -39,6 +39,17 @@ I have worked for software companies in Silicon Valley, along Boston's Route 128
 
 * https://mitchallen.com/
 
+## Mermaid Test
+
+```mermaid
+graph TD
+    A-->B
+    B-->C
+    C-->A
+    A-->D
+    D-->B
+```
+
 <!--
 **mitchallen/mitchallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
