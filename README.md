@@ -4,9 +4,9 @@ I have worked for software companies in Silicon Valley, along Boston's Route 128
 
 ## Projects
 
-### Hardware and Software Blogs
+### Hardware Blog and Software Handbook
 
-* https://scriptable.com/ - my blog on JavaScript, TypeScript, Go (Golang) and React
+* https://scriptable.com/ - my handbook for software engineers - it contains my notes on  JavaScript, TypeScript, Go (Golang), Python, React, Kubernetes, Docker, Google Cloud, etc.
 * https://desertbot.io/ - my Raspberry Pi and Arduino blog that averages 35-40K pageviews per month
 
 ### Generative Art
@@ -15,7 +15,13 @@ I have worked for software companies in Silicon Valley, along Boston's Route 128
 * https://scriptaverse.com/ - my experiment with hosting my own metaverse using ThreeJS and IPFS 
 * https://objkt.com/profile/mitchallenart/created - my online art gallery on objkt
 * https://rarible.com/mitchallenart/ - my Clean (Tezos) NFT profile on Rarible
-* 😦 DOA?: hicetnunc.art/mitchallen - my Clean (Tezos) NFT profile on Hic Et Nunc (.art version) 
+* 😦 DOA?: hicetnunc.art/mitchallen - my Clean (Tezos) NFT profile on Hic Et Nunc (.art version)
+
+### GitHub Packages
+
+I'm starting to publish more packages (Docker images, etc.) to GitHub directly:
+
+* https://github.com/mitchallen?tab=packages
 
 ### Go (Golang) Packages
 
