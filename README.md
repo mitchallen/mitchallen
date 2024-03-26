@@ -9,11 +9,14 @@ I have worked for software companies in Silicon Valley, along Boston's Route 128
 * https://scriptable.com/ - my handbook for software engineers - it contains my notes on  JavaScript, TypeScript, Go (Golang), Python, React, Kubernetes, Docker, Google Cloud, etc.
 * https://desertbot.io/ - my Raspberry Pi and Arduino blog that averages 35-40K pageviews per month
 
+### Metaverse
+
+* https://scriptaverse.com/ - my experiment with hosting my own metaverse using ThreeJS and IPFS
+* https://xrhydra.com/ - experimental metaverse editor
+
 ### Generative Art
 
 * https://mitchallen.art/ - the hub for my experiments with generative art 
-* https://scriptaverse.com/ - my experiment with hosting my own metaverse using ThreeJS and IPFS 
-* 😦 DOA?: hicetnunc.art/mitchallen - my Clean (Tezos) NFT profile on Hic Et Nunc (.art version)
 
 ### GitHub Packages
 
