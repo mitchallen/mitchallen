@@ -11,8 +11,10 @@ I have worked for software companies in Silicon Valley, along Boston's Route 128
 
 ### Metaverse
 
-* https://scriptaverse.com/ - my experiment with hosting my own metaverse using ThreeJS and IPFS
-* https://xrhydra.com/ - experimental metaverse editor
+* https://scriptaverse.com/ - my experiment with hosting my own metaverse using ThreeJS, WebXR and IPFS
+* https://xrmitch.com - my WebXR / A-Frame playground where I test out ideas for my other WebXR sites
+* https://xrhydra.com/ - experimental metaverse editor 
+* https://vrmitch.com - where I experiment with low-level WebXR / ThreeJS concepts
 
 ### Generative Art
 
