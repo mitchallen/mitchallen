@@ -6,7 +6,7 @@ I have worked for software companies in Silicon Valley, along Boston's Route 128
 
 ### Hardware Blog and Software Handbook
 
-* https://scriptable.com/ - my handbook for software engineers - it contains my notes on  JavaScript, TypeScript, Go (Golang), Python, React, Kubernetes, Docker, Google Cloud, etc.
+* https://scriptable.com/ - my handbook for software engineers - it contains my notes on  JavaScript, TypeScript, Go (Golang), Python, React, Kubernetes, Software Observability, Docker, Google Cloud, etc.
 * https://desertbot.io/ - my Raspberry Pi and Arduino blog that averages 35-40K pageviews per month
 
 ### Metaverse
