@@ -2,22 +2,15 @@
 
 I have worked for software companies in Silicon Valley, along Boston's Route 128 and in New York's Silicon Alley. I currently work for a robotics and logistics company in Massachusetts.
 
+### Home Page
+
+* https://mitchallen.com/
+
 ## Projects
 
 ### Software Handbook
 
-* https://scriptable.com/ - my handbook for software engineers - it contains my notes on  JavaScript, TypeScript, Go (Golang), Python, React, Kubernetes, Software Observability, Docker, Google Cloud, etc.
-
-### Metaverse
-
-* https://scriptaverse.com/ - my experiment with hosting my own metaverse using ThreeJS, WebXR and IPFS
-* https://xrmitch.com - my WebXR / A-Frame playground where I test out ideas for my other WebXR sites
-* https://xrhydra.com/ - experimental metaverse editor 
-* https://vrmitch.com - where I experiment with low-level WebXR / ThreeJS concepts
-
-### Generative Art
-
-* https://mitchallen.art/ - the hub for my experiments with generative art 
+* https://scriptable.com/ - my handbook for software engineers - it contains my notes on  JavaScript, TypeScript, Go (Golang), Python, React, Kubernetes, Software Observability, Docker, Google Cloud, etc. 
 
 ### GitHub Packages
 
@@ -41,12 +34,16 @@ I'm starting to publish more packages (Docker images, etc.) to GitHub directly:
 
 * http://amazon.com/author/mitch.allen
 
+### Metaverse
 
+* https://scriptaverse.com/ - my experiment with hosting my own metaverse using ThreeJS, WebXR and IPFS
+* https://xrmitch.com - my WebXR / A-Frame playground where I test out ideas for my other WebXR sites
+* https://xrhydra.com/ - experimental metaverse editor 
+* https://vrmitch.com - where I experiment with low-level WebXR / ThreeJS concepts
 
-### Home Page
+### Generative Art
 
-* https://mitchallen.com/
-
+* https://mitchallen.art/ - the hub for my experiments with generative art
 
 <!--
 **mitchallen/mitchallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
