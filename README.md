@@ -5,11 +5,7 @@ I have worked for software and robotics companies in Silicon Valley, along Bosto
 ### Home Page
 
 * https://mitchallen.com/
-
-### Software Handbook
-
-* https://scriptable.com/ - my handbook for software engineers - it contains my notes on  JavaScript, TypeScript, Go (Golang), Python, React, Kubernetes, Software Observability, Docker, Google Cloud, etc. 
-
+ 
 ### GitHub Packages
 
 I'm starting to publish more packages (Docker images, etc.) to GitHub directly:
@@ -34,6 +30,7 @@ I'm starting to publish more packages (Docker images, etc.) to GitHub directly:
 
 ### Metaverse
 
+* https://scriptable.com/ - micro app ideas
 * https://scriptaverse.com/ - my experiment with hosting my own metaverse using ThreeJS, WebXR and IPFS
 * https://xrmitch.com - my WebXR / A-Frame playground where I test out ideas for my other WebXR sites
 * https://xrhydra.com/ - experimental metaverse editor 
