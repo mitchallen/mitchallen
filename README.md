@@ -28,7 +28,7 @@ I'm starting to publish more packages (Docker images, etc.) to GitHub directly:
 
 * http://amazon.com/author/mitch.allen
 
-### Microapps
+### Micro Apps
 
 * https://scriptable.com/ - micro app ideas
 
