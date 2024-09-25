@@ -28,9 +28,12 @@ I'm starting to publish more packages (Docker images, etc.) to GitHub directly:
 
 * http://amazon.com/author/mitch.allen
 
-### Metaverse
+### Microapps
 
 * https://scriptable.com/ - micro app ideas
+
+### Metaverse
+
 * https://scriptaverse.com/ - my experiment with hosting my own metaverse using ThreeJS, WebXR and IPFS
 * https://xrmitch.com - my WebXR / A-Frame playground where I test out ideas for my other WebXR sites
 * https://xrhydra.com/ - experimental metaverse editor 
