@@ -1,6 +1,8 @@
 ## About Mitch Allen
 
-I have worked for software and robotics companies in Silicon Valley, along Boston's Route 128 and in New York's Silicon Alley.
+I am a Full Stack Software Engineer.
+
+I have worked for software and robotics companies in Silicon Valley, in and around Boston's Route 128, and New York's Silicon Alley.
 
 ### Home Page
 
