@@ -10,7 +10,7 @@ I have worked for software and robotics companies in Silicon Valley, in and arou
  
 ### GitHub Packages
 
-I'm starting to publish more packages (Docker images, etc.) to GitHub directly:
+I've been publishing more packages (Docker images, etc.) to GitHub directly:
 
 * https://github.com/mitchallen?tab=packages
 
