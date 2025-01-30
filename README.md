@@ -1,8 +1,11 @@
 ## About Mitch Allen
 
-I am a Full Stack Software Engineer.
+I am a Full Stack Software Engineer currently focus on App development.
 
-I have worked for software and robotics companies in Silicon Valley, in and around Boston's Route 128, and New York's Silicon Alley.
+I have:
+
+* Published games and apps on the Apple, Google and Amazon apps stores
+* Worked for software and robotics companies in Silicon Valley, in and around Boston's Route 128, and New York's Silicon Alley.
 
 ### Home Page
 
