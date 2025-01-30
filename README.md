@@ -1,6 +1,6 @@
 ## About Mitch Allen
 
-I am a Full Stack Software Engineer currently focus on App development.
+I am a Full Stack Software Engineer currently focused on App development.
 
 I have:
 
