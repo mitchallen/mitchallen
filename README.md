@@ -1,6 +1,6 @@
 ## About Mitch Allen
 
-I am an Independent Software Developer currently focused on App development.
+I am an Independent Software Developer currently focused on App and Automated Worklow development.
 
 I have:
 
