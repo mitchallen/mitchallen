@@ -1,6 +1,6 @@
 ## About Mitch Allen
 
-I am an Independent Software Developer currently focused on App and Automated Worklow development.
+I am an Independent Software Developer currently focused on AI Engineering and MCP and Automated Worklow development.
 
 I have:
 
@@ -9,7 +9,7 @@ I have:
 
 ### Apple App Store
 
-I'm currently working on a new set of apps for the Apple App Store:
+I recently published a new set of apps for the Apple App Store:
 
 * https://apps.apple.com/us/developer/mitchell-allen/id428796206
 
@@ -38,10 +38,6 @@ I've been publishing more packages (Docker images, etc.) to GitHub directly:
 ### Books
 
 * http://amazon.com/author/mitch.allen
-
-### Micro Apps
-
-* https://scriptable.com/ - micro app ideas
 
 ### Metaverse
 
