@@ -23,6 +23,10 @@ I've been publishing more packages (Docker images, etc.) to GitHub directly:
 
 * https://github.com/mitchallen?tab=packages
 
+### Python Packages
+
+* https://pypi.org/user/mitchallen/
+
 ### Go (Golang) Packages
 
 * https://pkg.go.dev/search?q=mitchallen/
