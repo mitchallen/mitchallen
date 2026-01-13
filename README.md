@@ -1,6 +1,6 @@
 ## About Mitch Allen
 
-I am an Independent Software Developer currently focused on AI Engineering, MCP Server, API and Automated Worklow development.
+I am an Independent Software Developer currently focused on AI Engineering.
 
 I have:
 
